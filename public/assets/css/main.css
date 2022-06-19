@@ -1,0 +1,10 @@
+.error{
+    float: right;
+    color: red;
+}
+.table-striped>tbody>tr>*{
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+}
